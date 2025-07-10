@@ -1,0 +1,1057 @@
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", Helvetica;
+  overflow-x: hidden;
+}
+
+.v2-box-3 {
+  position: relative;
+  width: 100%;
+  max-width: 100vw;
+  height: 669px;
+  overflow-x: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.v2-box-3 .v2-group-3 {
+  position: relative;
+  width: 100%;
+  height: 669px;
+  background-color: #fffae9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.v2-box-3 .v2-group-wrapper-3 {
+  position: relative;
+  width: 100%;
+  max-width: 1039px;
+  height: 276px;
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.v2-box-3 .v2-div-3 {
+  position: relative;
+  width: 100%;
+  max-width: 1043px;
+  height: 276px;
+}
+
+.v2-box-3 .v2-group-2-3 {
+  position: absolute;
+  width: 93px;
+  height: 116px;
+  top: 4px;
+  left: 0;
+}
+
+.v2-box-3 .v2-overlap-group-wrapper-3 {
+  position: relative;
+  width: 91px;
+  height: 83px;
+  top: 0;
+  left: 0;
+}
+
+.v2-box-3 .v2-overlap-group-3 {
+  position: relative;
+  height: 83px;
+}
+
+.v2-box-3 .v2-ellipse-3 {
+  top: 3px;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 0;
+  background-color: #baf700;
+  border-radius: 40px;
+}
+
+.v2-box-3 .v2-microwave-oven-3 {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  left: 14px;
+}
+
+.v2-box-3 .v2-layer-3 {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  top: 3px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-text-wrapper-3 {
+  position: absolute;
+  top: 96px;
+  left: 19px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #111111;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-box-3 .v2-group-3-3 {
+  position: absolute;
+  width: 94px;
+  height: 120px;
+  top: 0;
+  left: 179px;
+}
+
+.v2-box-3 .v2-overlap-3 {
+  position: absolute;
+  width: 92px;
+  height: 87px;
+  top: 0;
+  left: 0;
+}
+
+.v2-box-3 .v2-ellipse-2-3 {
+  top: 7px;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  left: 0;
+  background-color: #baf700;
+  border-radius: 40px;
+}
+
+.v2-box-3 .v2-cooking-3 {
+  position: absolute;
+  width: 79px;
+  height: 79px;
+  top: 0;
+  left: 13px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-text-wrapper-2-3 {
+  position: absolute;
+  top: 100px;
+  left: 19px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #111111;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-box-3 .v2-group-4-3 {
+  position: absolute;
+  width: 101px;
+  height: 113px;
+  top: 7px;
+  left: 359px;
+}
+
+.v2-box-3 .v2-overlap-2-3 {
+  position: absolute;
+  width: 99px;
+  height: 80px;
+  top: 0;
+  left: 0;
+}
+
+.v2-box-3 .v2-ellipse-3-3 {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #baf700;
+  border-radius: 40px;
+}
+
+.v2-box-3 .v2-grill-3 {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  top: 3px;
+  left: 25px;
+}
+
+.v2-box-3 .v2-group-5-3 {
+  position: absolute;
+  width: 72px;
+  height: 74px;
+  top: 0px;
+  left: 2px;
+    background-image: url(./assets/grill\ 1.png);
+  background-size: 100% 100%;
+}
+
+.v2-box-3 .v2-group-6-3 {
+  position: absolute;
+  width: 8px;
+  height: 20px;
+  top: 0;
+  left: 23px;
+  background-size: 100% 100%;
+}
+
+.v2-box-3 .v2-group-7-3 {
+  position: absolute;
+  width: 8px;
+  height: 20px;
+  top: 0;
+  left: 33px;
+  background-size: 100% 100%;
+}
+
+.v2-box-3 .v2-group-8-3 {
+  position: absolute;
+  width: 8px;
+  height: 20px;
+  top: 0;
+  left: 43px;
+  background-size: 100% 100%;
+}
+
+.v2-box-3 .v2-text-wrapper-3-3 {
+  position: absolute;
+  top: 93px;
+  left: 19px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #111111;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-box-3 .v2-group-9-3 {
+  position: absolute;
+  width: 105px;
+  height: 113px;
+  top: 7px;
+  left: 540px;
+}
+
+.v2-box-3 .v2-overlap-3-3 {
+  position: absolute;
+  width: 95px;
+  height: 80px;
+  top: 0;
+  left: 6px;
+}
+
+.v2-box-3 .v2-muscle-3 {
+  position: absolute;
+  width: 71px;
+  height: 71px;
+  top: 2px;
+  left: 24px;
+background-image: url(./assets/muscle\ 1.png);
+  background-size: 100% 100%;
+}
+
+.v2-box-3 .v2-text-wrapper-4-3 {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #111111;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-box-3 .v2-group-10-3 {
+  position: absolute;
+  width: 103px;
+  height: 113px;
+  top: 7px;
+  left: 737px;
+}
+
+.v2-box-3 .v2-div-wrapper-3 {
+  position: absolute;
+  width: 99px;
+  height: 82px;
+  top: 0;
+  left: 2px;
+}
+
+.v2-box-3 .v2-overlap-group-2-3 {
+  position: relative;
+  height: 82px;
+}
+
+.v2-box-3 .v2-calories-3 {
+  position: absolute;
+  width: 82px;
+  height: 82px;
+  top: 0;
+  left: 17px;
+  border-radius: 41px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-group-11-3 {
+  position: absolute;
+  width: 125px;
+  height: 113px;
+  top: 7px;
+  left: 916px;
+}
+
+.v2-box-3 .v2-group-12-3 {
+  position: absolute;
+  width: 100px;
+  height: 80px;
+  top: 0;
+  left: 16px;
+}
+
+.v2-box-3 .v2-overlap-group-3-3 {
+  position: relative;
+  height: 80px;
+}
+
+.v2-box-3 .v2-no-french-fries-3 {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  top: 3px;
+  left: 23px;
+}
+
+.v2-box-3 .v2-img-3 {
+  position: absolute;
+  width: 60px;
+  height: 73px;
+  top: 2px;
+  left: 8px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-group-13-3 {
+  position: absolute;
+  width: 170px;
+  height: 113px;
+  top: 159px;
+  left: 53px;
+}
+
+.v2-box-3 .v2-group-14-3 {
+  position: absolute;
+  width: 91px;
+  height: 80px;
+  top: 0;
+  left: 38px;
+}
+
+.v2-box-3 .v2-group-15-3 {
+  position: absolute;
+  width: 74px;
+  height: 74px;
+  top: 3px;
+  left: 17px;
+  border-radius: 37px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-group-16-3 {
+  position: absolute;
+  width: 105px;
+  height: 113px;
+  top: 163px;
+  left: 277px;
+}
+
+.v2-box-3 .v2-overlap-wrapper-3 {
+  position: absolute;
+  width: 94px;
+  height: 80px;
+  top: 0;
+  left: 4px;
+}
+
+.v2-box-3 .v2-group-17-3 {
+  position: absolute;
+  width: 76px;
+  height: 76px;
+  top: 4px;
+  left: 18px;
+  border-radius: 38px;
+  border-color: #111111;
+}
+
+.v2-box-3 .v2-overlap-group-4-3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.v2-box-3 .v2-vector-3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  border-radius: 38px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-vector-2-3 {
+  position: absolute;
+  width: 64px;
+  height: 39px;
+  top: 3px;
+  left: 0;
+}
+
+.v2-box-3 .v2-clean-ingredients-3 {
+  position: absolute;
+  top: 256px;
+  left: 445px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #111111;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-box-3 .v2-low-to-medium-fat-3 {
+  position: absolute;
+  top: 256px;
+  left: 628px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #111111;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-box-3 .v2-group-18-3 {
+  position: absolute;
+  width: 92px;
+  height: 80px;
+  top: 163px;
+  left: 470px;
+}
+
+.v2-box-3 .v2-group-19-3 {
+  position: absolute;
+  width: 69px;
+  height: 76px;
+  top: 4px;
+  left: 23px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-group-20-3 {
+  position: absolute;
+  width: 96px;
+  height: 80px;
+  top: 163px;
+  left: 661px;
+}
+
+.v2-box-3 .v2-no-fat-3 {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  top: 3px;
+  left: 19px;
+  transform: rotate(180deg);
+}
+
+.v2-box-3 .v2-group-21-3 {
+  position: absolute;
+  width: 77px;
+  height: 77px;
+  top: 0;
+  left: 0;
+  transform: rotate(-180deg);
+  border-radius: 38px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-group-22-3 {
+  position: absolute;
+  width: 125px;
+  height: 113px;
+  top: 163px;
+  left: 833px;
+}
+
+.v2-box-3 .v2-group-23-3 {
+  position: absolute;
+  width: 93px;
+  height: 80px;
+  top: 0;
+  left: 14px;
+}
+
+.v2-box-3 .v2-overlap-group-5-3 {
+  position: relative;
+  width: 94px;
+  height: 80px;
+}
+
+.v2-box-3 .v2-vector-3-3 {
+  position: absolute;
+  width: 73px;
+  height: 73px;
+  top: 4px;
+  left: 20px;
+  object-fit: cover;
+}
+
+.v2-box-3 .v2-frame-3 {
+  flex-direction: column;
+  position: absolute;
+  top: 40px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.v2-box-3 .v2-frame-2-3 {
+  gap: 10px;
+  padding: 4px 12px;
+  position: relative;
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.v2-box-3 .v2-p-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #111111;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.v2-box-3 .v2-highest-standards-wrapper-3 {
+  gap: 10px;
+  padding: 4px 11px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #111111;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.v2-box-3 .v2-highest-standards-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 900;
+  color: #baf700;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+/* Responsive Design - Media Queries */
+
+/* Large Tablets and Small Desktops (1200px and below) */
+@media (max-width: 1200px) {
+  .v2-box-3 .v2-group-wrapper-3 {
+    max-width: 90%;
+    transform: scale(0.9);
+  }
+  
+  .v2-box-3 .v2-frame-3 {
+    top: 30px;
+  }
+}
+
+/* Tablets (768px to 1024px) */
+@media (max-width: 1024px) {
+  .v2-box-3 {
+    height: auto;
+    min-height: 700px;
+  }
+  
+  .v2-box-3 .v2-group-3 {
+    height: auto;
+    min-height: 700px;
+    padding: 20px;
+  }
+  
+  .v2-box-3 .v2-group-wrapper-3 {
+    max-width: 95%;
+    transform: scale(0.8);
+    margin-top: 40px;
+  }
+  
+  .v2-box-3 .v2-frame-3 {
+    top: 20px;
+  }
+  
+  .v2-box-3 .v2-p-3 {
+    font-size: 18px;
+  }
+  
+  .v2-box-3 .v2-highest-standards-3 {
+    font-size: 28px;
+  }
+}
+
+/* Small Tablets and Large Phones (768px and below) */
+@media (max-width: 768px) {
+  .v2-box-3 {
+    height: auto;
+    min-height: 900px;
+  }
+  
+  .v2-box-3 .v2-group-3 {
+    height: auto;
+    min-height: 900px;
+    padding: 15px;
+  }
+  
+  .v2-box-3 .v2-group-wrapper-3 {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    min-height: 600px;
+    transform: none;
+    margin-top: 20px;
+    display: block;
+  }
+  
+  .v2-box-3 .v2-div-3 {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    padding: 20px;
+    justify-items: center;
+    max-width: none;
+  }
+  
+  /* Mobile Component Structure - Uniform Layout */
+  .v2-box-3 .v2-group-2-3,
+  .v2-box-3 .v2-group-3-3,
+  .v2-box-3 .v2-group-4-3,
+  .v2-box-3 .v2-group-9-3,
+  .v2-box-3 .v2-group-10-3,
+  .v2-box-3 .v2-group-11-3,
+  .v2-box-3 .v2-group-13-3,
+  .v2-box-3 .v2-group-16-3,
+  .v2-box-3 .v2-group-22-3 {
+    position: static !important;
+    width: 100px !important;
+    height: 120px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    margin: 0 auto !important;
+  }
+  
+  /* Mobile Circle Containers - Uniform Positioning */
+  .v2-box-3 .v2-overlap-group-wrapper-3,
+  .v2-box-3 .v2-overlap-3,
+  .v2-box-3 .v2-overlap-2-3,
+  .v2-box-3 .v2-overlap-3-3,
+  .v2-box-3 .v2-div-wrapper-3,
+  .v2-box-3 .v2-group-12-3,
+  .v2-box-3 .v2-group-14-3,
+  .v2-box-3 .v2-overlap-wrapper-3,
+  .v2-box-3 .v2-group-23-3 {
+    position: relative !important;
+    width: 80px !important;
+    height: 80px !important;
+    top: 0 !important;
+    left: 0 !important;
+    margin: 0 auto 15px auto !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  
+  /* Mobile Circle Backgrounds - Uniform Sizing */
+  .v2-box-3 .v2-overlap-group-3,
+  .v2-box-3 .v2-overlap-group-2-3,
+  .v2-box-3 .v2-overlap-group-3-3,
+  .v2-box-3 .v2-overlap-group-4-3,
+  .v2-box-3 .v2-overlap-group-5-3 {
+    position: relative !important;
+    width: 80px !important;
+    height: 80px !important;
+    top: 0 !important;
+    left: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  
+  /* Mobile Ellipses - Uniform Background Circles */
+  .v2-box-3 .v2-ellipse-3,
+  .v2-box-3 .v2-ellipse-2-3,
+  .v2-box-3 .v2-ellipse-3-3 {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 80px !important;
+    height: 80px !important;
+    border-radius: 40px !important;
+    background-color: #baf700 !important;
+  }
+  
+  /* Mobile Image Containers - Centered Above Text */
+  .v2-box-3 .v2-microwave-oven-3,
+  .v2-box-3 .v2-grill-3,
+  .v2-box-3 .v2-no-french-fries-3,
+  .v2-box-3 .v2-group-17-3,
+  .v2-box-3 .v2-no-fat-3 {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 70px !important;
+    height: 70px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  
+  /* Mobile Direct Images - Perfectly Centered */
+  .v2-box-3 .v2-layer-3,
+  .v2-box-3 .v2-cooking-3,
+  .v2-box-3 .v2-calories-3,
+  .v2-box-3 .v2-img-3,
+  .v2-box-3 .v2-group-15-3,
+  .v2-box-3 .v2-vector-3,
+  .v2-box-3 .v2-group-19-3,
+  .v2-box-3 .v2-group-21-3,
+  .v2-box-3 .v2-vector-3-3 {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 32px !important;
+    object-fit: cover !important;
+  }
+  
+  /* Mobile Background Images - Perfectly Centered */
+  .v2-box-3 .v2-group-5-3,
+  .v2-box-3 .v2-muscle-3 {
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 65px !important;
+    height: 65px !important;
+    border-radius: 32px !important;
+  }
+  
+  /* Mobile Text Labels - Uniform Positioning Below Images */
+  .v2-box-3 .v2-text-wrapper-3,
+  .v2-box-3 .v2-text-wrapper-2-3,
+  .v2-box-3 .v2-text-wrapper-3-3,
+  .v2-box-3 .v2-text-wrapper-4-3 {
+    position: static !important;
+    top: auto !important;
+    left: auto !important;
+    width: 100% !important;
+    margin: 0 !important;
+    font-size: 14px !important;
+    text-align: center !important;
+    line-height: 1.2 !important;
+    margin-top: 5px !important;
+  }
+  
+  /* Special handling for Low Calorie component */
+  .v2-box-3 .v2-group-10-3 .v2-text-wrapper-4-3 {
+    order: 2 !important;
+    margin-top: 15px !important;
+  }
+  
+  .v2-box-3 .v2-group-10-3 .v2-div-wrapper-3 {
+    order: 1 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  /* Special handling for No Fried Foods component */
+  .v2-box-3 .v2-group-11-3 .v2-text-wrapper-4-3 {
+    order: 2 !important;
+    margin-top: 15px !important;
+  }
+  
+  .v2-box-3 .v2-group-11-3 .v2-group-12-3 {
+    order: 1 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  /* Special handling for Minimally Processed component */
+  .v2-box-3 .v2-group-13-3 .v2-text-wrapper-4-3 {
+    order: 2 !important;
+    margin-top: 15px !important;
+  }
+  
+  .v2-box-3 .v2-group-13-3 .v2-group-14-3 {
+    order: 1 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  /* Special handling for No Seed Oils component */
+  .v2-box-3 .v2-group-16-3 .v2-text-wrapper-4-3 {
+    order: 2 !important;
+    margin-top: 15px !important;
+  }
+  
+  .v2-box-3 .v2-group-16-3 .v2-overlap-wrapper-3 {
+    order: 1 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  /* Special handling for Complex Carbs component */
+  .v2-box-3 .v2-group-22-3 .v2-text-wrapper-4-3 {
+    order: 2 !important;
+    margin-top: 15px !important;
+  }
+  
+  .v2-box-3 .v2-group-22-3 .v2-group-23-3 {
+    order: 1 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  /* Hide standalone elements in mobile */
+  .v2-box-3 .v2-clean-ingredients-3,
+  .v2-box-3 .v2-low-to-medium-fat-3,
+  .v2-box-3 .v2-group-18-3,
+  .v2-box-3 .v2-group-20-3 {
+    display: none !important;
+  }
+  
+  .v2-box-3 .v2-frame-3 {
+    top: 15px;
+    position: absolute;
+  }
+  
+  .v2-box-3 .v2-p-3 {
+    font-size: 16px;
+    white-space: normal;
+  }
+  
+  .v2-box-3 .v2-highest-standards-3 {
+    font-size: 24px;
+  }
+}
+
+/* Mobile Phones (480px and below) */
+@media (max-width: 480px) {
+  .v2-box-3 {
+    height: auto;
+    min-height: 1000px;
+  }
+  
+  .v2-box-3 .v2-group-3 {
+    height: auto;
+    min-height: 1000px;
+    padding: 10px;
+  }
+  
+  .v2-box-3 .v2-group-wrapper-3 {
+    min-height: 700px;
+    margin-top: 15px;
+  }
+  
+  .v2-box-3 .v2-div-3 {
+    grid-template-columns: repeat(2, 1fr) !important;
+    grid-gap: 25px !important;
+    padding: 15px !important;
+  }
+  
+  .v2-box-3 .v2-frame-3 {
+    top: 10px;
+  }
+  
+  .v2-box-3 .v2-p-3 {
+    font-size: 14px;
+    white-space: normal;
+  }
+  
+  .v2-box-3 .v2-highest-standards-3 {
+    font-size: 20px;
+  }
+  
+  /* Smaller circles for mobile */
+  .v2-box-3 .v2-overlap-group-wrapper-3,
+  .v2-box-3 .v2-overlap-3,
+  .v2-box-3 .v2-overlap-2-3,
+  .v2-box-3 .v2-overlap-3-3,
+  .v2-box-3 .v2-div-wrapper-3,
+  .v2-box-3 .v2-group-12-3,
+  .v2-box-3 .v2-group-14-3,
+  .v2-box-3 .v2-overlap-wrapper-3,
+  .v2-box-3 .v2-group-23-3 {
+    width: 70px !important;
+    height: 70px !important;
+    margin: 0 auto 12px auto !important;
+  }
+  
+  .v2-box-3 .v2-overlap-group-3,
+  .v2-box-3 .v2-overlap-group-2-3,
+  .v2-box-3 .v2-overlap-group-3-3,
+  .v2-box-3 .v2-overlap-group-4-3,
+  .v2-box-3 .v2-overlap-group-5-3 {
+    width: 70px !important;
+    height: 70px !important;
+  }
+  
+  .v2-box-3 .v2-ellipse-3,
+  .v2-box-3 .v2-ellipse-2-3,
+  .v2-box-3 .v2-ellipse-3-3 {
+    width: 70px !important;
+    height: 70px !important;
+    border-radius: 35px !important;
+  }
+  
+  .v2-box-3 .v2-microwave-oven-3,
+  .v2-box-3 .v2-grill-3,
+  .v2-box-3 .v2-no-french-fries-3,
+  .v2-box-3 .v2-group-17-3,
+  .v2-box-3 .v2-no-fat-3 {
+    width: 60px !important;
+    height: 60px !important;
+  }
+  
+  .v2-box-3 .v2-layer-3,
+  .v2-box-3 .v2-cooking-3,
+  .v2-box-3 .v2-calories-3,
+  .v2-box-3 .v2-img-3,
+  .v2-box-3 .v2-group-15-3,
+  .v2-box-3 .v2-vector-3,
+  .v2-box-3 .v2-group-19-3,
+  .v2-box-3 .v2-group-21-3,
+  .v2-box-3 .v2-vector-3-3 {
+    width: 55px !important;
+    height: 55px !important;
+    border-radius: 27px !important;
+  }
+  
+  .v2-box-3 .v2-group-5-3,
+  .v2-box-3 .v2-muscle-3 {
+    width: 55px !important;
+    height: 55px !important;
+    border-radius: 27px !important;
+  }
+  
+  .v2-box-3 .v2-text-wrapper-3,
+  .v2-box-3 .v2-text-wrapper-2-3,
+  .v2-box-3 .v2-text-wrapper-3-3,
+  .v2-box-3 .v2-text-wrapper-4-3 {
+    font-size: 12px !important;
+    margin-top: 3px !important;
+  }
+  
+  /* Adjust special components for smaller mobile */
+  .v2-box-3 .v2-group-10-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-11-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-13-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-16-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-22-3 .v2-text-wrapper-4-3 {
+    margin-top: 12px !important;
+  }
+}
+
+/* Extra Small Mobile (320px and below) */
+@media (max-width: 320px) {
+  .v2-box-3 {
+    min-height: 1200px;
+  }
+  
+  .v2-box-3 .v2-group-3 {
+    min-height: 1200px;
+  }
+  
+  .v2-box-3 .v2-group-wrapper-3 {
+    min-height: 900px;
+  }
+  
+  .v2-box-3 .v2-div-3 {
+    grid-template-columns: 1fr !important;
+    grid-gap: 20px !important;
+    padding: 10px !important;
+  }
+  
+  .v2-box-3 .v2-highest-standards-3 {
+    font-size: 18px;
+  }
+  
+  .v2-box-3 .v2-p-3 {
+    font-size: 12px;
+  }
+  
+  .v2-box-3 .v2-overlap-group-wrapper-3,
+  .v2-box-3 .v2-overlap-3,
+  .v2-box-3 .v2-overlap-2-3,
+  .v2-box-3 .v2-overlap-3-3,
+  .v2-box-3 .v2-div-wrapper-3,
+  .v2-box-3 .v2-group-12-3,
+  .v2-box-3 .v2-group-14-3,
+  .v2-box-3 .v2-overlap-wrapper-3,
+  .v2-box-3 .v2-group-23-3 {
+    margin: 0 auto 10px auto !important;
+  }
+  
+  .v2-box-3 .v2-group-10-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-11-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-13-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-16-3 .v2-text-wrapper-4-3,
+  .v2-box-3 .v2-group-22-3 .v2-text-wrapper-4-3 {
+    margin-top: 10px !important;
+  }
+}

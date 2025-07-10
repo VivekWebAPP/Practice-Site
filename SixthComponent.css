@@ -1,0 +1,583 @@
+.v2-frame-6 {
+  position: relative;
+  background-color: #baf700;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.v2-frame-6 .v2-group-wrapper-6 {
+  background-color: #baf700;
+  width: 1280px;
+  height: 774px;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.v2-frame-6 .v2-group-6 {
+  position: relative;
+  width: 1178px;
+  height: 577px;
+  top: 99px;
+  left: 56px;
+  max-width: calc(100% - 112px);
+}
+
+.v2-frame-6 .v2-overlap-group-6 {
+  position: absolute;
+  width: 615px;
+  height: 256px;
+  top: 100px;
+  left: 0;
+  max-width: 100%;
+}
+
+.v2-frame-6 .v2-text-wrapper-6 {
+  position: absolute;
+  top: 6px;
+  left: 202px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #080808;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-frame-6 .v2-img-6 {
+  position: absolute;
+  width: 206px;
+  height: 256px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.v2-frame-6 .v2-place-your-order-6 {
+  position: absolute;
+  width: 413px;
+  top: 44px;
+  left: 202px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #080808;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.v2-frame-6 .v2-span-6 {
+  font-weight: 500;
+}
+
+.v2-frame-6 .v2-text-wrapper-2-6 {
+  font-weight: 700;
+}
+
+.v2-frame-6 .v2-div-wrapper-6 {
+  position: absolute;
+  width: 215px;
+  height: 68px;
+  top: 165px;
+  left: 202px;
+  background-color: #111111;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.v2-frame-6 .v2-div-wrapper-6:hover {
+  background-color: #333333;
+  transform: translateY(-2px);
+}
+
+.v2-frame-6 .v2-div-6 {
+  position: relative;
+  width: 177px;
+  height: 34px;
+  top: 17px;
+  left: 24px;
+}
+
+.v2-frame-6 .v2-text-wrapper-3-6 {
+  position: absolute;
+  width: 140px;
+  top: 8px;
+  left: 35px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #baf700;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-frame-6 .v2-group-2-6 {
+  position: absolute;
+  width: 27px;
+  height: 34px;
+  top: 0;
+  left: 0;
+}
+
+.v2-frame-6 .v2-group-3-6 {
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 7px;
+  left: 0;
+  background-image: url(./assets/group.png);
+  background-size: 100% 100%;
+}
+
+.v2-frame-6 .v2-group-4-6 {
+  position: absolute;
+  width: 13px;
+  height: 7px;
+  top: 0;
+  left: 7px;
+  background-image: url(./assets/group-1.png);
+  background-size: 100% 100%;
+}
+
+.v2-frame-6 .v2-text-wrapper-4-6 {
+  position: absolute;
+  top: 412px;
+  left: 48px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #080808;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.v2-frame-6 .v2-get-your-healthy-6 {
+  position: absolute;
+  top: 0;
+  left: 362px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 900;
+  color: #111111;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  max-width: 500px;
+}
+
+.v2-frame-6 .v2-group-5-6 {
+  position: absolute;
+  width: 423px;
+  height: 463px;
+  top: 105px;
+  left: 745px;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.v2-frame-6 .v2-we-stock-our-fridge-6 {
+  position: absolute;
+  width: 356px;
+  top: 450px;
+  left: 48px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #080808;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.v2-frame-6 .v2-group-6-6 {
+  position: absolute;
+  width: 121px;
+  height: 144px;
+  top: 403px;
+  left: 447px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Tablet styles (769px to 1024px) */
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+  .v2-frame-6 .v2-group-wrapper-6 {
+    width: 100%;
+    height: auto;
+    min-height: 700px;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+
+  .v2-frame-6 .v2-group-6 {
+    width: 100%;
+    height: auto;
+    top: 30px;
+    left: 0;
+    max-width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  .v2-frame-6 .v2-overlap-group-6 {
+    width: 65%;
+    max-width: 550px;
+    height: auto;
+    top: 80px;
+    position: relative;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    font-size: 20px;
+    left: 160px;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    width: 140px;
+    height: 180px;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    width: 300px;
+    left: 160px;
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    left: 160px;
+    width: 180px;
+    height: 60px;
+  }
+
+  .v2-frame-6 .v2-div-6 {
+    top: 13px;
+    left: 20px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-3-6 {
+    font-size: 14px;
+    width: 120px;
+    left: 30px;
+  }
+
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    font-size: 26px;
+    left: 200px;
+    top: 20px;
+    max-width: 350px;
+  }
+
+  .v2-frame-6 .v2-group-5-6 {
+    width: 300px;
+    height: 330px;
+    left: 450px;
+    top: 120px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-4-6 {
+    top: 350px;
+    left: 30px;
+    font-size: 20px;
+  }
+
+  .v2-frame-6 .v2-we-stock-our-fridge-6 {
+    width: 280px;
+    top: 390px;
+    left: 30px;
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .v2-frame-6 .v2-group-6-6 {
+    width: 90px;
+    height: 110px;
+    top: 340px;
+    left: 330px;
+  }
+}
+
+/* Mobile styles (up to 768px) */
+@media screen and (max-width: 768px) {
+  .v2-frame-6 {
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  .v2-frame-6 .v2-group-wrapper-6 {
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    padding: 20px 15px;
+    box-sizing: border-box;
+  }
+
+  .v2-frame-6 .v2-group-6 {
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+  }
+
+  /* Main heading at top */
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    position: relative;
+    font-size: 24px;
+    left: 0;
+    top: 0;
+    text-align: center;
+    width: 100%;
+    max-width: none;
+    margin: 0 0 30px 0;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  /* Order section - stacked vertically */
+  .v2-frame-6 .v2-overlap-group-6 {
+    position: relative;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    position: relative;
+    width: 150px;
+    height: 180px;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 20px;
+    display: block;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    position: relative;
+    width: 100%;
+    max-width: none;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 180px;
+    height: 60px;
+    margin: 0;
+  }
+
+  .v2-frame-6 .v2-div-6 {
+    top: 13px;
+    left: 20px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-3-6 {
+    font-size: 14px;
+    width: 130px;
+    left: 25px;
+  }
+
+  /* Large meal image */
+  .v2-frame-6 .v2-group-5-6 {
+    position: relative;
+    width: 100%;
+    max-width: 350px;
+    height: 300px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    margin: 0 0 30px 0;
+    display: block;
+  }
+
+  /* Grab n Go section */
+  .v2-frame-6 .v2-text-wrapper-4-6 {
+    position: relative;
+    top: 0;
+    left: 0;
+    font-size: 22px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .v2-frame-6 .v2-we-stock-our-fridge-6 {
+    position: relative;
+    width: 100%;
+    max-width: none;
+    top: 0;
+    left: 0;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin: 0 0 25px 0;
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+
+  /* Small ingredient image - centered and contained */
+  .v2-frame-6 .v2-group-6-6 {
+    position: relative;
+    width: 120px;
+    height: 140px;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    display: block;
+  }
+}
+
+/* Small mobile styles (up to 480px) */
+@media screen and (max-width: 480px) {
+  .v2-frame-6 .v2-group-wrapper-6 {
+    padding: 15px 10px;
+  }
+
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    font-size: 20px;
+    margin-bottom: 25px;
+  }
+
+  .v2-frame-6 .v2-overlap-group-6 {
+    padding: 15px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    font-size: 18px;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    width: 120px;
+    height: 150px;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    width: 160px;
+    height: 55px;
+  }
+
+  .v2-frame-6 .v2-div-6 {
+    top: 11px;
+    left: 18px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-3-6 {
+    font-size: 13px;
+    width: 110px;
+    left: 25px;
+  }
+
+  .v2-frame-6 .v2-group-5-6 {
+    max-width: 280px;
+    height: 250px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-4-6 {
+    font-size: 20px;
+  }
+
+  .v2-frame-6 .v2-we-stock-our-fridge-6 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .v2-frame-6 .v2-group-6-6 {
+    width: 100px;
+    height: 120px;
+  }
+}
+
+/* Extra small devices (up to 360px) */
+@media screen and (max-width: 360px) {
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    font-size: 18px;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    font-size: 16px;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    width: 100px;
+    height: 130px;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    font-size: 13px;
+    line-height: 20px;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    width: 140px;
+    height: 50px;
+  }
+
+  .v2-frame-6 .v2-group-5-6 {
+    max-width: 250px;
+    height: 220px;
+  }
+
+  .v2-frame-6 .v2-group-6-6 {
+    width: 80px;
+    height: 100px;
+  }
+}
+
+/* Ensure no horizontal overflow */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Ensure images are always responsive and contained */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
