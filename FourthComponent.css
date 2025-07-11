@@ -83,6 +83,9 @@
   width: 267px;
   align-items: flex-start;
   position: relative;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
 }
 
 .v2-frame-4 .v2-socials-4 {

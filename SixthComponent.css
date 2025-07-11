@@ -1,3 +1,4 @@
+/* Base styles for original design */
 .v2-frame-6 {
   position: relative;
   background-color: #baf700;
@@ -88,6 +89,7 @@
   border-radius: 6px;
   cursor: pointer;
   transition: all 0.3s ease;
+  border: none;
 }
 
 .v2-frame-6 .v2-div-wrapper-6:hover {
@@ -99,7 +101,6 @@
   position: relative;
   width: 177px;
   height: 34px;
-  top: 17px;
   left: 24px;
 }
 
@@ -202,6 +203,323 @@
   left: 447px;
   object-fit: cover;
   border-radius: 8px;
+}
+
+/* Large desktop styles (1441px and above) */
+@media screen and (min-width: 1441px) {
+  .v2-frame-6 .v2-group-wrapper-6 {
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+  }
+
+  .v2-frame-6 .v2-group-6 {
+    width: calc(100vw - 8vw);
+    height: calc(100vh - 20vh);
+    top: 10vh;
+    left: 4vw;
+    max-width: calc(100% - 8vw);
+  }
+
+  .v2-frame-6 .v2-overlap-group-6 {
+    width: 48%;
+    height: 45%;
+    top: 15%;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    font-size: 2vw;
+    left: 33%;
+    top: 2%;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    width: 32%;
+    height: 100%;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    width: 65%;
+    left: 33%;
+    top: 20%;
+    font-size: 1.4vw;
+    line-height: 1.8vw;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    width: 35%;
+    height: 25%;
+    top: 70%;
+    left: 33%;
+  }
+
+  .v2-frame-6 .v2-div-6 {
+    width: 80%;
+    height: 60%;
+    left: 15%;
+    top: 20%;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-3-6 {
+    width: 70%;
+    font-size: 1.1vw;
+    left: 25%;
+    top: 25%;
+  }
+
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    font-size: 2.5vw;
+    left: 28%;
+    top: 0;
+    width: 44%;
+    max-width: none;
+  }
+
+  .v2-frame-6 .v2-group-5-6 {
+    width: 30%;
+    height: 80%;
+    top: 18%;
+    right: 4%;
+    left: auto;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-4-6 {
+    top: 70%;
+    left: 4%;
+    font-size: 2vw;
+  }
+
+  .v2-frame-6 .v2-we-stock-our-fridge-6 {
+    width: 25%;
+    top: 78%;
+    left: 4%;
+    font-size: 1.4vw;
+    line-height: 2vw;
+  }
+
+  .v2-frame-6 .v2-group-6-6 {
+    width: 8.5%;
+    height: 25%;
+    top: 70%;
+    left: 32%;
+  }
+}
+
+/* Extra large desktop styles (1921px and above) */
+@media screen and (min-width: 1921px) {
+  .v2-frame-6 .v2-group-wrapper-6 {
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+  }
+
+  .v2-frame-6 .v2-group-6 {
+    width: calc(100vw - 6vw);
+    height: calc(100vh - 16vh);
+    top: 8vh;
+    left: 3vw;
+    max-width: calc(100% - 6vw);
+  }
+
+  .v2-frame-6 .v2-overlap-group-6 {
+    width: 47%;
+    height: 43%;
+    top: 16%;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    font-size: 1.8vw;
+    left: 33%;
+    top: 3%;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    width: 32%;
+    height: 100%;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    width: 65%;
+    left: 33%;
+    top: 22%;
+    font-size: 1.3vw;
+    line-height: 1.7vw;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    width: 32%;
+    height: 23%;
+    top: 72%;
+    left: 33%;
+  }
+
+  .v2-frame-6 .v2-div-6 {
+    width: 85%;
+    height: 65%;
+    left: 12%;
+    top: 18%;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-3-6 {
+    width: 75%;
+    font-size: 1vw;
+    left: 20%;
+    top: 30%;
+  }
+
+  .v2-frame-6 .v2-group-2-6 {
+    width: 1.6vw;
+    height: 2vw;
+  }
+
+  .v2-frame-6 .v2-group-3-6 {
+    width: 1.6vw;
+    height: 1.6vw;
+    top: 20%;
+  }
+
+  .v2-frame-6 .v2-group-4-6 {
+    width: 0.8vw;
+    height: 0.4vw;
+    left: 25%;
+  }
+
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    font-size: 2.3vw;
+    left: 29%;
+    top: 0;
+    width: 42%;
+    max-width: none;
+  }
+
+  .v2-frame-6 .v2-group-5-6 {
+    width: 32%;
+    height: 78%;
+    top: 20%;
+    right: 3%;
+    left: auto;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-4-6 {
+    top: 72%;
+    left: 3.5%;
+    font-size: 1.8vw;
+  }
+
+  .v2-frame-6 .v2-we-stock-our-fridge-6 {
+    width: 27%;
+    top: 80%;
+    left: 3.5%;
+    font-size: 1.3vw;
+    line-height: 1.8vw;
+  }
+
+  .v2-frame-6 .v2-group-6-6 {
+    width: 9%;
+    height: 26%;
+    top: 72%;
+    left: 33%;
+  }
+}
+
+/* Large desktop styles (1281px to 1440px) */
+@media screen and (min-width: 1281px) and (max-width: 1440px) {
+  .v2-frame-6 .v2-group-wrapper-6 {
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+  }
+
+  .v2-frame-6 .v2-group-6 {
+    width: calc(100vw - 10vw);
+    height: calc(100vh - 22vh);
+    top: 11vh;
+    left: 5vw;
+    max-width: calc(100% - 10vw);
+  }
+
+  .v2-frame-6 .v2-overlap-group-6 {
+    width: 50%;
+    height: 47%;
+    top: 17%;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-6 {
+    font-size: 2.1vw;
+    left: 34%;
+    top: 2.5%;
+  }
+
+  .v2-frame-6 .v2-img-6 {
+    width: 34%;
+    height: 100%;
+  }
+
+  .v2-frame-6 .v2-place-your-order-6 {
+    width: 66%;
+    left: 34%;
+    top: 18%;
+    font-size: 1.5vw;
+    line-height: 2vw;
+  }
+
+  .v2-frame-6 .v2-div-wrapper-6 {
+    width: 36%;
+    height: 26%;
+    top: 68%;
+    left: 34%;
+  }
+
+  .v2-frame-6 .v2-div-6 {
+    width: 82%;
+    height: 58%;
+    left: 12%;
+    top: 21%;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-3-6 {
+    width: 72%;
+    font-size: 1.2vw;
+    left: 22%;
+    top: 24%;
+  }
+
+  .v2-frame-6 .v2-get-your-healthy-6 {
+    font-size: 2.7vw;
+    left: 30%;
+    top: 0;
+    width: 40%;
+    max-width: none;
+  }
+
+  .v2-frame-6 .v2-group-5-6 {
+    width: 33%;
+    height: 82%;
+    top: 16%;
+    right: 5%;
+    left: auto;
+  }
+
+  .v2-frame-6 .v2-text-wrapper-4-6 {
+    top: 68%;
+    left: 4%;
+    font-size: 2.1vw;
+  }
+
+  .v2-frame-6 .v2-we-stock-our-fridge-6 {
+    width: 28%;
+    top: 76%;
+    left: 4%;
+    font-size: 1.5vw;
+    line-height: 2.1vw;
+  }
+
+  .v2-frame-6 .v2-group-6-6 {
+    width: 10%;
+    height: 28%;
+    top: 67%;
+    left: 35%;
+  }
 }
 
 /* Tablet styles (769px to 1024px) */
@@ -498,7 +816,6 @@
   }
 
   .v2-frame-6 .v2-div-6 {
-    top: 11px;
     left: 18px;
   }
 
@@ -564,7 +881,7 @@
   }
 }
 
-/* Ensure no horizontal overflow */
+/* Global responsive styles */
 * {
   box-sizing: border-box;
 }
@@ -573,6 +890,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
 }
 
 /* Ensure images are always responsive and contained */

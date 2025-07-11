@@ -7,17 +7,6 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-  font-family: "Montserrat", Helvetica;
-  overflow-x: hidden;
-}
-
 .v2-box-3 {
   position: relative;
   width: 100%;

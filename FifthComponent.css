@@ -10,73 +10,41 @@
 .v2-frame-5 .v2-component-wrapper-5 {
   position: relative;
   width: 100%;
-  max-width: 100%;
   height: auto;
-  min-height: 826px;
+  min-height: 100vh;
 }
 
 .v2-frame-5 .v2-component-5 {
-  height: auto;
-  min-height: 826px;
+  height: 100%;
+  min-height: 100vh;
   width: 100%;
   background-color: #111111;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+}
+
+.v2-frame-5 .v2-div-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  align-items: flex-start;
+  gap: 38px;
+  position: relative;
+  background-color: #000000ba;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  margin-top: 50px;
 }
 
 .v2-frame-5 .v2-overlap-5 {
   width: 100%;
-  height: auto;
+  height: 100%;
   min-height: 826px;
   background-image: url(./assets/image--4--1-1.png);
   background-size: cover;
   background-position: end;
   background-repeat: no-repeat;
-}
-
-.v2-frame-5 .v2-div-5 {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: auto;
-  min-height: 826px;
-  align-items: flex-start;
-  gap: 38px;
-  padding: 72px;
-  position: relative;
-  background-color: #000000ba;
-  box-sizing: border-box;
-}
-
-@media (max-width: 768px) {
-  .v2-frame-5 .v2-div-5 {
-    padding: 36px 20px;
-    gap: 24px;
-  }
-
-  .v2-frame-5 .v2-component-5 {
-    height: auto;
-    min-height: 826px;
-    width: 102%;
-    background-color: #111111;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-  }
-
-  .v2-frame-5 .v2-div-4-5,
-  .v2-frame-5 .v2-div-9-5 {
-    flex-direction: column;
-    gap: 30px;
-  }
-
-  .v2-frame-5 .v2-div-5-5,
-  .v2-frame-5 .v2-div-7-5,
-  .v2-frame-5 .v2-div-10-5,
-  .v2-frame-5 .v2-div-12-5 {
-    width: 100%;
-  }
 }
 
 .v2-frame-5 .v2-div-2-5 {
@@ -89,6 +57,7 @@
 }
 
 .v2-frame-5 .v2-div-wrapper-5 {
+  top: 100px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -137,6 +106,7 @@
 }
 
 .v2-frame-5 .v2-div-3-5 {
+  top: 150px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -150,6 +120,7 @@
 .v2-frame-5 .v2-div-4-5 {
   display: flex;
   align-items: flex-end;
+  gap: 40px;
   position: relative;
   align-self: stretch;
   width: 100%;
@@ -159,7 +130,7 @@
 .v2-frame-5 .v2-div-5-5 {
   display: flex;
   flex-direction: column;
-  width: 354px;
+  width: calc(50% - 20px);
   align-items: flex-start;
   gap: 11px;
   position: relative;
@@ -254,14 +225,12 @@
 .v2-frame-5 .v2-group-2-5 {
   position: relative;
   width: 100%;
-  max-width: 358px;
   height: 108px;
 }
 
 .v2-frame-5 .v2-p-5 {
   position: absolute;
   width: 100%;
-  max-width: 354px;
   top: 41px;
   left: 0;
   font-family: "Montserrat", Helvetica;
@@ -288,7 +257,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 360px;
+  width: calc(50% - 20px);
   gap: 20px;
   position: relative;
   flex: 1;
@@ -325,14 +294,12 @@
 .v2-frame-5 .v2-group-3-5 {
   position: relative;
   width: 100%;
-  max-width: 321px;
   height: 108px;
 }
 
 .v2-frame-5 .v2-text-wrapper-5-5 {
   position: absolute;
   width: 100%;
-  max-width: 317px;
   top: 41px;
   left: 0;
   font-family: "Montserrat", Helvetica;
@@ -348,7 +315,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 0px;
+  gap: 40px;
   position: relative;
   align-self: stretch;
   flex: 0 0 auto;
@@ -357,7 +324,7 @@
 .v2-frame-5 .v2-div-10-5 {
   display: flex;
   flex-direction: column;
-  width: 340px;
+  width: calc(50% - 20px);
   align-items: flex-start;
   gap: 5px;
   position: relative;
@@ -383,14 +350,12 @@
 .v2-frame-5 .v2-group-4-5 {
   position: relative;
   width: 100%;
-  max-width: 254px;
   height: 108px;
 }
 
 .v2-frame-5 .v2-text-wrapper-6-5 {
   position: absolute;
   width: 100%;
-  max-width: 250px;
   top: 41px;
   left: 0;
   font-family: "Montserrat", Helvetica;
@@ -404,7 +369,7 @@
 .v2-frame-5 .v2-div-12-5 {
   display: flex;
   flex-direction: column;
-  width: 317px;
+  width: calc(50% - 20px);
   align-items: flex-start;
   gap: 5px;
   position: relative;
@@ -454,6 +419,7 @@
   gap: 8px;
   position: relative;
   flex: 0 0 auto;
+  top: 100px;
 }
 
 .v2-frame-5 .v2-group-wrapper-5 {
@@ -462,14 +428,23 @@
   height: 68px;
   background-color: #ffffff;
   border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.v2-frame-5 .v2-group-wrapper-5:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(186, 247, 0, 0.3);
 }
 
 .v2-frame-5 .v2-group-5-5 {
   position: relative;
   width: 169px;
   height: 34px;
-  top: 17px;
-  left: 24px;
+  left: 20px;
+  top: 25%;
+  transform: translateY(-50%);
 }
 
 .v2-frame-5 .v2-text-wrapper-8-5 {
@@ -500,8 +475,8 @@
   height: 27px;
   top: 7px;
   left: 0;
-  background-image: url(./assets/Group\ 28061.png);
-  background-size: 100% 100%;
+  background-color: #baf700;
+  border-radius: 50%;
 }
 
 .v2-frame-5 .v2-group-8-5 {
@@ -536,4 +511,108 @@
   line-height: normal;
 }
 
+/* Large screens - maintain proportional spacing */
+@media (min-width: 1200px) {
+  .v2-frame-5 .v2-div-5 {
+    padding: 4vh 8vw;
+    gap: 4vh;
+  }
+  
+  .v2-frame-5 .v2-div-4-5,
+  .v2-frame-5 .v2-div-9-5 {
+    gap: 6vw;
+  }
+}
 
+/* Extra large screens */
+@media (min-width: 1600px) {
+  .v2-frame-5 .v2-div-5 {
+    padding: 3vh 10vw;
+  }
+  
+  .v2-frame-5 .v2-div-4-5,
+  .v2-frame-5 .v2-div-9-5 {
+    gap: 8vw;
+  }
+}
+
+/* Mobile responsiveness - existing styles preserved */
+@media (max-width: 768px) {
+  .v2-frame-5 .v2-div-5 {
+    padding: 36px 20px;
+    gap: 24px;
+  }
+
+  .v2-frame-5 .v2-component-5 {
+    height: auto;
+    min-height: 826px;
+    width: 102%;
+    background-color: #111111;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .v2-frame-5 .v2-div-4-5,
+  .v2-frame-5 .v2-div-9-5 {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .v2-frame-5 .v2-div-5-5,
+  .v2-frame-5 .v2-div-7-5,
+  .v2-frame-5 .v2-div-10-5,
+  .v2-frame-5 .v2-div-12-5 {
+    width: 100%;
+  }
+
+  .v2-frame-5 .v2-how-it-works-5 {
+    font-size: 24px;
+  }
+
+  .v2-frame-5 .v2-text-wrapper-5 {
+    font-size: 18px;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .v2-frame-5 .v2-div-5 {
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .v2-frame-5 .v2-div-4-5,
+  .v2-frame-5 .v2-div-9-5 {
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .v2-frame-5 .v2-div-5-5,
+  .v2-frame-5 .v2-div-7-5,
+  .v2-frame-5 .v2-div-10-5,
+  .v2-frame-5 .v2-div-12-5 {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .v2-frame-5 .v2-group-2-5,
+  .v2-frame-5 .v2-group-3-5,
+  .v2-frame-5 .v2-group-4-5 {
+    max-width: 100%;
+  }
+
+  .v2-frame-5 .v2-p-5,
+  .v2-frame-5 .v2-text-wrapper-5-5,
+  .v2-frame-5 .v2-text-wrapper-6-5 {
+    max-width: 100%;
+  }
+
+  .v2-frame-5 .v2-how-it-works-5 {
+    font-size: 24px;
+  }
+
+  .v2-frame-5 .v2-text-wrapper-5 {
+    font-size: 16px;
+  }
+}

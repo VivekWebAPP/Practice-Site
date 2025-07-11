@@ -97,6 +97,7 @@
   border-radius: 6px;
   cursor: pointer;
   transition: all 0.3s ease;
+  border: none;
 }
 
 .v2-frame-8 .v2-div-3-8:hover {
@@ -148,6 +149,208 @@
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
+}
+
+/* Large Screens and Ultra-Wide Displays (1920px and above) */
+@media screen and (min-width: 1920px) {
+  .v2-frame-8 .v2-overlap-group-wrapper-8 {
+    width: 100%;
+    height: 894px;
+  }
+
+  .v2-frame-8 .v2-overlap-group-8 {
+    height: 894px;
+  }
+
+  .v2-frame-8 .v2-card-8 {
+    width: calc(100vw - 442px);
+    height: 800px;
+    left: 0;
+    top: 0;
+  }
+
+  .v2-frame-8 .v2-div-8 {
+    width: 442px;
+    height: 800px;
+    left: calc(100vw - 442px);
+    top: 0;
+  }
+
+  .v2-frame-8 .v2-div-2-8 {
+    width: 287px;
+    height: 220px;
+    gap: 16px;
+    top: 224px;
+    left: calc(100vw - 367px);
+  }
+
+  .v2-frame-8 .v2-EAT-MORE-SPEND-LESS-8 {
+    font-size: 32px;
+  }
+
+  .v2-frame-8 .v2-swing-in-purchase-8 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .v2-frame-8 .v2-group-8 {
+    width: 215px;
+    height: 68px;
+    top: 526px;
+    left: calc(100vw - 367px);
+  }
+
+  .v2-frame-8 .v2-div-3-8 {
+    width: 215px;
+    height: 68px;
+    padding: 24px;
+  }
+
+  .v2-frame-8 .v2-text-wrapper-8 {
+    font-size: 16px;
+  }
+
+  .v2-frame-8 .v2-img-8 {
+    width: 26.96px;
+    height: 34px;
+  }
+
+  .v2-frame-wrapper-8 {
+    height: 68px;
+  }
+
+  .v2-frame-8 .v2-order-by-friday-wrapper-8 {
+    top: 700px;
+    left: calc(100vw - 373px);
+  }
+
+  .v2-frame-8 .v2-order-by-friday-8 {
+    font-size: 16px;
+  }
+}
+
+/* Extra Large Screens (1601px - 1919px) */
+@media screen and (min-width: 1601px) and (max-width: 1919px) {
+  .v2-frame-8 .v2-overlap-group-wrapper-8 {
+    width: 100%;
+    height: 894px;
+  }
+
+  .v2-frame-8 .v2-overlap-group-8 {
+    height: 894px;
+  }
+
+  .v2-frame-8 .v2-card-8 {
+    width: calc(100vw - 442px);
+    height: 800px;
+    left: 0;
+    top: 0;
+  }
+
+  .v2-frame-8 .v2-div-8 {
+    width: 442px;
+    height: 800px;
+    left: calc(100vw - 442px);
+    top: 0;
+  }
+
+  .v2-frame-8 .v2-div-2-8 {
+    width: 287px;
+    height: 220px;
+    gap: 16px;
+    top: 224px;
+    left: calc(100vw - 367px);
+  }
+
+  .v2-frame-8 .v2-EAT-MORE-SPEND-LESS-8 {
+    font-size: 32px;
+  }
+
+  .v2-frame-8 .v2-swing-in-purchase-8 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .v2-frame-8 .v2-group-8 {
+    width: 215px;
+    height: 68px;
+    top: 526px;
+    left: calc(100vw - 367px);
+  }
+
+  .v2-frame-8 .v2-div-3-8 {
+    width: 215px;
+    height: 68px;
+    padding: 24px;
+  }
+
+  .v2-frame-8 .v2-text-wrapper-8 {
+    font-size: 16px;
+  }
+
+  .v2-frame-8 .v2-img-8 {
+    width: 26.96px;
+    height: 34px;
+  }
+
+  .v2-frame-wrapper-8 {
+    height: 68px;
+  }
+
+  .v2-frame-8 .v2-order-by-friday-wrapper-8 {
+    top: 700px;
+    left: calc(100vw - 373px);
+  }
+
+  .v2-frame-8 .v2-order-by-friday-8 {
+    font-size: 16px;
+  }
+}
+
+/* Large Desktop Screens (1301px - 1600px) */
+@media screen and (min-width: 1301px) and (max-width: 1600px) {
+  .v2-frame-8 .v2-overlap-group-wrapper-8 {
+    width: 100%;
+    height: 894px;
+  }
+
+  .v2-frame-8 .v2-overlap-group-8 {
+    height: 894px;
+  }
+
+  .v2-frame-8 .v2-card-8 {
+    width: calc(100vw - 442px);
+    height: 800px;
+    left: 0;
+    top: 0;
+  }
+
+  .v2-frame-8 .v2-div-8 {
+    width: 442px;
+    height: 800px;
+    left: calc(100vw - 442px);
+    top: 0;
+  }
+
+  .v2-frame-8 .v2-div-2-8 {
+    width: 287px;
+    height: 220px;
+    gap: 16px;
+    top: 224px;
+    left: calc(100vw - 367px);
+  }
+
+  .v2-frame-8 .v2-group-8 {
+    width: 215px;
+    height: 68px;
+    top: 526px;
+    left: calc(100vw - 367px);
+  }
+
+  .v2-frame-8 .v2-order-by-friday-wrapper-8 {
+    top: 700px;
+    left: calc(100vw - 373px);
+  }
 }
 
 /* Responsive Design - Large Tablets and Small Desktops (1025px - 1300px) */
